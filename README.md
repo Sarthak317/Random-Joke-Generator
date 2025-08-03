@@ -48,4 +48,4 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project is perfect for le
 
 ---
 
-## ❤️ Made with laughter and logic — by [**Sarthak**](https://github.com/sarthakmonga) 😄
+## ❤️ Made with laughter and logic — by Sarthak
